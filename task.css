@@ -1,0 +1,15 @@
+body .container1 img{
+    width: 100px;
+    height: 100px;
+}
+body .container2 img{
+    width: 100px;
+    height: 100px; 
+    margin: 0% 6%;
+
+}
+body .container3 img{
+    width: 100px;
+    height: 100px;
+    margin: 0% 12%;
+}
